@@ -10,7 +10,7 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
 - Install and configure Tailwind CSS
 - Set up the project structure with components, pages, and utility folders
 - Configure basic routing using React Router
-
+ -+[;'][';]\'.l;../
 ### Task 2: Component Architecture
 - Create reusable UI components:
   - `Button` component with different variants (primary, secondary, danger)
